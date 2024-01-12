@@ -1,0 +1,8 @@
+@article{REPO389,
+    author = "Wang, Yikun and Pan, Zhibin and Dong, Jing",
+    journal = "Knowledge-Based Systems",
+    pages = "107604",
+    title = "{A New Two-Layer Nearest Neighbor Selection Method for kNN Classifier}",
+    volume = "235",
+    year = "2022"
+}
